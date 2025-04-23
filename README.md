@@ -10,10 +10,14 @@ package, which is our recommended harmonization method.
 The ENIGMA pipeline is available here: https://github.com/nih-megcore/enigma_MEG/
 
 The script here, enigma_compare_harmonize.py, requires installation of neuroCovHarmonize, a fork of 
-neuroHarmonize that also incorporates code for CovBat-Harmonization. 
+neuroHarmonize that also incorporates code from CovBat-Harmonization (the Python implementation is maintained
+by Andrew Chen: https://github.com/andy1764/CovBat_Harmonization)
 
 neuroCovHarmonize is available here:
 
 https://github.com/nugenta/neuroCovHarmonize
 
 Installation of neuroHarmonize, neuroCombat, and rpy2 are also required.
+https://github.com/rpomponio/neuroHarmonize
+https://github.com/Jfortin1/neuroCombat
+https://rpy2.github.io/
