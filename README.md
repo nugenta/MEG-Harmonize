@@ -20,5 +20,7 @@ https://github.com/nugenta/neuroCovHarmonize
 Installation of neuroHarmonize, neuroCombat, and rpy2 are also required.
 
 https://github.com/rpomponio/neuroHarmonize
+
 https://github.com/Jfortin1/neuroCombat
+
 https://rpy2.github.io/
